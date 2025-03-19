@@ -36,7 +36,16 @@
 
 ## 📕 INSTALDORES, EMULADORES, CONERTIDORES
 
-* [Page 1](instaldores-emuladores-conertidores/page-1.md)
+* [⏳ FBI v2.6.1](instaldores-emuladores-conertidores/fbi-v2.6.1.md)
+* [📕 Errores FBI](instaldores-emuladores-conertidores/errores-fbi.md)
+* [⏳ SDLOADER-GX](instaldores-emuladores-conertidores/sdloader-gx.md)
+* [⏳ Custom Install](instaldores-emuladores-conertidores/custom-install.md)
+* [⏳ Twilight Menu 3Ds](instaldores-emuladores-conertidores/twilight-menu-3ds.md)
+* [⏳ Twlfix](instaldores-emuladores-conertidores/twlfix.md)
+* [💾 r4 Kernel](instaldores-emuladores-conertidores/r4-kernel.md)
+* [💾 r4 Flasheables](instaldores-emuladores-conertidores/r4-flasheables.md)
+* [💾 r4 Flashear y Restaurar](instaldores-emuladores-conertidores/r4-flashear-y-restaurar.md)
+* [🔄 TOKYOTRIM](instaldores-emuladores-conertidores/tokyotrim.md)
 
 ## 📕 Homebrew 3DS
 
