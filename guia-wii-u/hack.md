@@ -43,25 +43,25 @@ Teniendo la consola conectada a internet abriremos el navegador de internet y in
 
 Nos aparecerá lo siguiente:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Pulsaremos donde dice "AROMA" y esperaremos a que la pantalla esté blanca para mantener pulsado el botón B, si funciona aparecerá lo siguiente:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Selecionamos "Default" y pulsamos A para cargar el payload, nos aparecerá lo siguiente:\
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Enviroment Loader</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Enviroment Loader</p></figcaption></figure>
 
 Selecionamos "Installer" y lo abrimos con el botón A
 
 Nos aparecerá otra pantalla en la que tenemos que pulsar el botón A en "check", en cuanto la pantalla cambie, nos aparecerá lo siguiente:\
 
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Selecionamos "Install/update" con el botón A, nos dará un aviso y le damos a Install otra vez, luego pulsaremos A y la consola se apagará.
 
