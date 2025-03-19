@@ -5,6 +5,4 @@ coverY: 0
 
 # 💰 Donaciones
 
-### Donaciones para Homebrew Central
-
-Link: [https://ko-fi.com/homebrewcentral](https://app.gitbook.com/s/xgcXPKbCBxZNvB6LgdiY/errores)
+F

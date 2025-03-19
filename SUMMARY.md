@@ -31,8 +31,6 @@
 * [📕 Los 3D](consola-3ds/los-3d.md)
 * [📕 Splash](consola-3ds/splash.md)
 * [📕 Pin control parental](consola-3ds/pin-control-parental.md)
-* [🌐 Pretendo Network (Online)](consola-3ds/pretendo-network-online.md)
-* [Actualizar Hack](consola-3ds/actualizar-hack.md)
 
 ## 📕 INSTALDORES, EMULADORES, CONERTIDORES
 
@@ -50,6 +48,7 @@
 ## 📕 Homebrew 3DS
 
 * [🅱️ Bandolero 3Ds](homebrew-3ds/bandolero-3ds.md)
+* [🌐 Pretendo Network (Online)](homebrew-3ds/pretendo-network-online.md)
 
 ## 🔼 GUÍA WII U
 
@@ -63,7 +62,3 @@
 * [🧞‍♀️ Usb Loader GX](guia-wii/usb-loader-gx.md)
 * [🌐 WiiLink (Canales Online)](guia-wii/wiilink-canales-online.md)
 * [🌐 WiiMifi (Online)](guia-wii/wiimifi-online.md)
-
-## 🥏 GUÍA vWii
-
-* [🫂 Hack vWii (WiiU)](guia-vwii/hack-vwii-wiiu.md)
