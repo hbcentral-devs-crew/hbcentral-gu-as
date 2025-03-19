@@ -43,25 +43,25 @@ Teniendo la consola conectada a internet abriremos el navegador de internet y in
 
 Nos aparecerá lo siguiente:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Pulsaremos donde dice "AROMA" y esperaremos a que la pantalla esté blanca para mantener pulsado el botón B, si funciona aparecerá lo siguiente:
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Selecionamos "Default" y pulsamos A para cargar el payload, nos aparecerá lo siguiente:\
 
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Enviroment Loader</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Enviroment Loader</p></figcaption></figure>
 
 Selecionamos "Installer" y lo abrimos con el botón A
 
 Nos aparecerá otra pantalla en la que tenemos que pulsar el botón A en "check", en cuanto la pantalla cambie, nos aparecerá lo siguiente:\
 
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Selecionamos "Install/update" con el botón A, nos dará un aviso y le damos a Install otra vez, luego pulsaremos A y la consola se apagará.
 
@@ -69,27 +69,27 @@ Selecionamos "Install/update" con el botón A, nos dará un aviso y le damos a I
 
 Encenderemos otra vez la consola, y abriremos la aplicaicón de "Salud y Seguridad" mientras mantenemos pulsado el botón X.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Nos volverá a salir el Enviroment Loader, y volveremos a entrar en "Installer" con el botón A, le daremos a "Check", luego selecionaremos "Boot Options"
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Y pulsaremos en "Switch to Payloader", luego pulsaremos A y la consola se volerá a apagar
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Volveremos a encender la consola, pero esta vez pulsaremos el botón "Start" mientras la encendemos, cuando nos salga el Enviroment Loader, ponemos el cursor en "Tiramisu" y pulsaremos el botón Y para ponerlo por defecto
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Cuando esté así, pulsaremos A para encender la consola
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Si sale esta pantalla, simplemente pulsar el botón B.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Cuando aparezca esto, selecionar "Wii U Menu" y pulsar el botón Y, luego pulsar el botón A para iniciar el menú de la consola.
 
@@ -101,7 +101,7 @@ Para abrir el Homebrew Launcher, abrir el editor de mii.
 
 Iremos a la página de descarga de aroma: [https://aroma.foryour.cafe](https://aroma.foryour.cafe)
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Selecionamos lo que queremos descargar, la imagen de arriba es lo roecomendado y copiamos todo a la raíz de la SD.
 

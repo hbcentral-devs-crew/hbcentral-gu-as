@@ -11,7 +11,7 @@ coverY: 0
 * Las R4 una vez flasheadas pueden restaurarse. ⁠💾r4-flashear-y-restaurar
 * **Las R4 de franja trasera ROJA SON FALSAS y no permiten el Flasheo**
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 Archivos Kernel\
 [https://show.co/XLpnS5M](https://show.co/XLpnS5M)

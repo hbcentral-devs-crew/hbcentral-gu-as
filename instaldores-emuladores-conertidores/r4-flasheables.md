@@ -39,4 +39,4 @@ R4 COMPATIBLES CON FLASHEO**POSIBLES MODELOS EN VENTA**
 * DSTT
 * R4 3D Revolution
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
