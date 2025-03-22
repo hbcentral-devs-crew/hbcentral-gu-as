@@ -49,16 +49,3 @@
 
 * [🅱️ Bandolero 3Ds](homebrew-3ds/bandolero-3ds.md)
 * [🌐 Pretendo Network (Online)](homebrew-3ds/pretendo-network-online.md)
-
-## 🔼 GUÍA WII U
-
-* [👀 Hack](guia-wii-u/hack.md)
-* [🔮 Homebrew Apps](guia-wii-u/homebrew-apps.md)
-* [🌐 Pretendo Network (Online)](guia-wii-u/pretendo-network-online.md)
-
-## 🏜️ GUÍA WII
-
-* [👀 Hack](guia-wii/hack.md)
-* [🧞‍♀️ Usb Loader GX](guia-wii/usb-loader-gx.md)
-* [🌐 WiiLink (Canales Online)](guia-wii/wiilink-canales-online.md)
-* [🌐 WiiMifi (Online)](guia-wii/wiimifi-online.md)
